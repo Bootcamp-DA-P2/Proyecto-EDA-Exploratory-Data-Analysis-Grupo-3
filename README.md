@@ -59,3 +59,10 @@ El repositorio mantiene una arquitectura limpia orientada a la reproducibilidad 
 │   └── visualization.py          <-- Scripts para generación automática de mapas y gráficos
 ├── README.md                     <-- Documentación técnica (este archivo)
 └── requirements.txt              <-- Dependencias del entorno (pandas, matplotlib, etc.)
+
+## 📅 7. Herramiento que hemos utilizado para organizar el proyecto
+
+Utilizamos Kavan en GitHub:
+
+https://github.com/orgs/Bootcamp-DA-P2/projects/12/views/1
+
